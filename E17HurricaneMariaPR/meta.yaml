@@ -1,0 +1,11 @@
+summary: |
+        "Hurricane Maria, a devastating Category 5 storm, struck the Caribbean Island of Puerto Rico on September 20, 2017, claiming over 3000 lives. 
+        This example presents a wind-induced damage assessment for Vieques Island, Puerto Rico. Peak Gust wind speed data of Hurricane Maria from the National Institute of Standards and Technology (NIST) is used as the intensity measure. 
+        Inventory data of about 200 wood residential buildings is created through a Python Notebook using BRAILS and the rulesets developed to map the building inventory to a HAZUS-type damage assessment. 
+        The final results include the damage and loss estimations and the building information models based on the rulesets."
+
+#<p>Tags: (Hurricane | IM as EDP | HAZUS building-level D&L)</p>
+   
+
+#Estimate damages and losses for a collection of buildings located in Vieques, Puerto Rico, after Hurricane Maria.
+difficulty: 0
