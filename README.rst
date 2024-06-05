@@ -1,10 +1,10 @@
 .. _case_7:
 
 R2D - Hurricane Maria Damage and Losses
-=======================
+=======================================
 
 Author: Daniel Acosta Reyes
----------------------
+---------------------------
 
 Introduction
 ------------
